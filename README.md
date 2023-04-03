@@ -1,4 +1,3 @@
-# c-_resources
 c++_resources
 
 **ebook link**
