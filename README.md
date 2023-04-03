@@ -16,3 +16,23 @@ c++_resources
 [ebook6](https://github.com/arjuncr/cpp_resources/blob/master/books/modern-cpp-tutorial-en-us.pdf)    
 
 
+**cpp guide link** 
+
+[cpp-style-and-conventions](https://github.com/openbmc/docs/blob/master/cpp-style-and-conventions.md)   
+
+
+**cpp online compiler**
+
+[compile c++](https://cpp.sh/)    
+
+
+** cpp lib** 
+
+[boost lib](https://theboostcpplibraries.com/)   
+
+
+  
+
+
+
+
