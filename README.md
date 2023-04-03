@@ -1,7 +1,7 @@
 # c-_resources
 c++_resources
 
-**Ebooklink**
+**ebook link**
 
 [ebook1](https://github.com/arjuncr/cpp_resources/blob/master/books/0133439852.pdf)   
 
